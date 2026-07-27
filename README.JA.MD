@@ -6,7 +6,7 @@
 
 ゲームやデスクトップアプリケーション向けに、高性能なリアルタイム映像処理とビジュアル強化を提供します。
 
-[English](README.md) | [简体中文](README.zh-CN.md) | 日本語
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.jp.md)
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![C++](https://img.shields.io/badge/C%2B%2B-20-00599C.svg?logo=cplusplus)
