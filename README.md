@@ -236,7 +236,7 @@ Special thanks to:
 
 <div align="center">
 
-**Made with ❤️ by the InspiCrete-OrbFX Project**
+**Made with ❤️ by the InspiCrete Studio**
 
 Copyright © 2026 InspiCrete Studio
 
