@@ -107,8 +107,8 @@ OrbFX
 ### 第一阶段：基础架构
 
 - [x] 创建项目仓库
-- [ ] 搭建项目架构
-- [ ] Modern Fluent UI
+- [x] 搭建项目架构
+- [x] Modern Fluent UI
 - [ ] 设置系统
 - [ ] 预设管理
 
