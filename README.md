@@ -32,7 +32,7 @@ The long-term goal is to become a modern, extensible, and user-friendly graphics
 
 ### Current
 
-- Modern Fluent UI
+- Google Material Design 3 UI
 - Native C++20 architecture
 - Qt 6 user interface
 - Modular project structure
@@ -108,7 +108,7 @@ OrbFX
 
 - [x] Repository initialization
 - [ ] Project architecture
-- [ ] Fluent UI
+- [ ] Google Material Design 3 UI
 - [ ] Settings system
 - [ ] Preset management
 
@@ -188,7 +188,7 @@ OrbFX.exe
 
 Contributions are welcome!
 
-If you'd like to contribute to OrbFX, please read the following documents before submitting a Pull Request:
+If you'd like to contribute to InspiCrete OrbFX, please read the following documents before submitting a Pull Request:
 
 - CONTRIBUTING.md
 - CODE_OF_CONDUCT.md
@@ -210,7 +210,7 @@ See the [LICENSE](LICENSE) file for details.
 InspiCrete-OrbFX is designed to become a professional graphics enhancement platform focused on:
 
 - 🚀 Performance
-- 🎨 Modern Fluent Design
+- 🎨 Google Material Design 3 UI
 - 🔧 Extensibility
 - 🖥 Cross-vendor compatibility
 - 🎞 Professional image quality
