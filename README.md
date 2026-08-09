@@ -107,8 +107,8 @@ OrbFX
 ### Phase 1 — Foundation
 
 - [x] Repository initialization
-- [ ] Project architecture
-- [ ] Modern Fluent UI
+- [x] Project architecture
+- [x] Modern Fluent UI
 - [ ] Settings system
 - [ ] Preset management
 
