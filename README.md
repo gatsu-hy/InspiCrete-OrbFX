@@ -32,7 +32,7 @@ The long-term goal is to become a modern, extensible, and user-friendly graphics
 
 ### Current
 
-- Google Material Design 3 UI
+- Modern Fluent UI
 - Native C++20 architecture
 - Qt 6 user interface
 - Modular project structure
@@ -108,7 +108,7 @@ OrbFX
 
 - [x] Repository initialization
 - [ ] Project architecture
-- [ ] Google Material Design 3 UI
+- [ ] Modern Fluent UI
 - [ ] Settings system
 - [ ] Preset management
 
