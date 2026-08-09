@@ -32,7 +32,7 @@ GPU メーカー専用ソフトウェアとは異なり、OrbFX は **NVIDIA・A
 
 ### 現在
 
-- Fluent Design ベースのモダン UI
+- Google Material Design 3 UI
 - C++20 ネイティブアーキテクチャ
 - Qt 6 ベースのユーザーインターフェース
 - モジュール化されたプロジェクト構成
@@ -109,7 +109,7 @@ OrbFX
 
 - [x] リポジトリ作成
 - [ ] プロジェクトアーキテクチャ
-- [ ] Fluent UI
+- [ ] Google Material Design 3 UI
 - [ ] 設定システム
 - [ ] プリセット管理
 
