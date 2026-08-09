@@ -32,7 +32,7 @@ InspiCrete-OrbFX 是一款基于 **C++20** 与 **Qt 6** 开发的现代化图形
 
 ### 已完成
 
-- Google Material Design 3 界面设计
+- Modern Fluent UI 界面设计
 - 基于 C++20 的原生架构
 - Qt 6 用户界面
 - 模块化项目结构
@@ -108,7 +108,7 @@ OrbFX
 
 - [x] 创建项目仓库
 - [ ] 搭建项目架构
-- [ ] Google Material Design 3 UI
+- [ ] Modern Fluent UI
 - [ ] 设置系统
 - [ ] 预设管理
 
